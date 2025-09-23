@@ -33,7 +33,6 @@ I'm a **Computer Science Engineering student** at **IIIT Senapati, Manipur** wit
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=brain&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLMops](https://img.shields.io/badge/LLMops-000000?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -42,15 +41,12 @@ I'm a **Computer Science Engineering student** at **IIIT Senapati, Manipur** wit
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Security & Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=nuclei&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -59,7 +55,6 @@ I'm a **Computer Science Engineering student** at **IIIT Senapati, Manipur** wit
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
