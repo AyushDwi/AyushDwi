@@ -11,7 +11,7 @@
 I'm a **Computer Science Engineering student** at **IIIT Senapati, Manipur** with expertise in **AI/ML, Cybersecurity, and Full-Stack Development**. Currently pursuing my B.Tech with **8.16 CGPA** and achieved **AIR 702 in GATE Data Analytics 2025** (top 1% among 50,000+ candidates).
 
 - 🎓 **Education**: B.Tech CSE at IIIT Senapati, Manipur (Dec 2021 - Apr 2025)
-- 🏆 **Achievement**: AIR 702 in GATE Data Analytics 2025 (Top 1%)  
+- 🏆 **Achievement**: AIR 702 in GATE Data Analytics 2025 (Top 1%)
 - 🥇 **Previous**: AIR 2578 in GATE CS&IT 2024
 - 💼 **Experience**: Penetration Testing Intern at CDAC Noida
 - 🔐 **Certified**: Ethical Hacking Professional (EHP) - CDAC Noida
