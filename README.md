@@ -36,7 +36,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ayush_KD?theme=dark&font=Noto%20Sans&ext=heatmap)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayush_KD&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=Ayush_KD&theme=dark&animated=true)
 
 **140+ Problems Solved** | **Contest Rating: 1657** | **Top 17%**
 
