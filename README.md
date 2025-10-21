@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AyushDwi&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AyushDwi&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -34,9 +34,9 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Ayush_KD&theme=dark)](https://leetcode.com/Ayush_KD/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ayush_KD?theme=dark&font=Noto%20Sans&ext=heatmap)
 
-![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/Ayush_KD?theme=dark)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayush_KD&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 **140+ Problems Solved** | **Contest Rating: 1657** | **Top 17%**
 
