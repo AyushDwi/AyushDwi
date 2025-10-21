@@ -36,9 +36,9 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ayush_KD?theme=dark&font=Noto%20Sans&ext=heatmap)
 
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=Ayush_KD&theme=dark&animated=true)
+[![Ayush's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Ayush_KD&theme=dark)](https://leetcode.com/Ayush_KD/)
 
-**140+ Problems Solved** | **Contest Rating: 1657** | **Top 17%**
+**139 Problems Solved** | **Contest Rating: 1657** | **Top 17%**
 
 </div>
 
